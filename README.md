@@ -57,6 +57,6 @@ export default class App extends Component {
 
 _@Todo_
 
-## Licence
+## License
 
 [MIT](LICENSE)
