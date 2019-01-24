@@ -14,7 +14,7 @@ A React Native component for showing speedometer like a gauge.
 - [Basic Usage](#basic-usage)
 - [Properties](#properties)
 - [Examples](#examples)
-- [Licence](#licence)
+- [License](#license)
 
 ## Installation
 
