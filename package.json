@@ -1,0 +1,11 @@
+{
+  "name": "react-native-speedometer",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "author": "David Colin <hello@colindavid.fr> (http://www.colindavid.fr/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dcolin/react-native-speedometer-gauge.git"
+  }
+}
