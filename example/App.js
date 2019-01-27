@@ -7,7 +7,7 @@ export default class App extends Component {
   render() {
     return (
       <View style={styles.App}>
-        <SpeedometerGauge />
+        <SpeedometerGauge size={300} width={70} />
       </View>
     );
   }
