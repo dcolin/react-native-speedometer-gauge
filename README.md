@@ -30,6 +30,8 @@ $ npm install --save react-native-speedometer-gauge
 $ yarn add react-native-speedometer-gauge
 ```
 
+Link the **ART library** to your React Native project ([how to link a library](https://facebook.github.io/react-native/docs/linking-libraries-ios.html#content)). You'll find the React ART library in node_modules/react-native/Libraries/ART/ART.xcodeproj
+
 ## Basic Usage
 
 ```javascript
