@@ -1,11 +1,36 @@
 {
   "name": "react-native-speedometer-gauge",
+  "description": "A React Native component for showing speedometer like a gauge.",
   "version": "0.1.0",
   "main": "src/index.js",
   "author": "David Colin <hello@colindavid.fr> (http://www.colindavid.fr/)",
   "license": "MIT",
+  "homepage": "https://github.com/dcolin/react-native-speedometer-gauge#readme",
   "repository": {
     "type": "git",
     "url": "git@github.com:dcolin/react-native-speedometer-gauge.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-speedometer-gauge",
+    "speedometer",
+    "gauge"
+  ],
+  "scripts": {
+    "lint": "eslint src/"
+  },
+  "peerDependencies": {
+    "react": "16.6.3",
+    "react-native": "0.57.8"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.12.1",
+    "eslint-plugin-babel": "^5.3.0",
+    "eslint-plugin-react": "^7.12.4",
+    "eslint-plugin-react-native": "^3.6.0"
   }
 }
