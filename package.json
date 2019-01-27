@@ -1,7 +1,7 @@
 {
   "name": "react-native-speedometer-gauge",
   "description": "A React Native component for showing speedometer like a gauge.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "src/index.js",
   "author": "David Colin <hello@colindavid.fr> (http://www.colindavid.fr/)",
   "license": "MIT",
@@ -21,7 +21,7 @@
   },
   "peerDependencies": {
     "react": "16.6.3",
-    "react-native": "0.57.8"
+    "react-native": "0.58.1"
   },
   "dependencies": {
     "prop-types": "^15.6.2"
